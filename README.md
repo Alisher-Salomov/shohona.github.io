@@ -1,2 +1,2 @@
-# shohona.githup.io
+# shohona.github.io
 shohona
